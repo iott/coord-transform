@@ -1,1 +1,1 @@
-module.exports=require("./build/Release/WGS84ToGoogle").transform;
+module.exports=require("./build/Release/transform.node");

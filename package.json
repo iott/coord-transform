@@ -1,6 +1,6 @@
 {
-  "name": "wgs84ToGoogle",
-  "version": "0.0.1",
+  "name": "wgs84togoogle",
+  "version": "0.0.2",
   "description": "WGS-84 to google",
   "main": "index.js",
   "repository": {
