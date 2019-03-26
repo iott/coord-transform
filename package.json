@@ -1,0 +1,18 @@
+{
+  "name": "wgs84ToGoogle",
+  "version": "0.0.1",
+  "description": "WGS-84 to google",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/iott/coord-transform.git"
+  },
+  "author": "iot_pro@163.com",
+  "license": "GPL-3.0",
+  "scripts": {
+    "install": "node-gyp rebuild"
+  },
+  "dependencies": {
+    "nan": "^2.13.2"
+  }
+}
